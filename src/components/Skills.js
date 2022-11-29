@@ -10,6 +10,9 @@ import Github from "../assets/img/GithubIcon.png"
 import Python from "../assets/img/PythonIconV3.webp"
 import Java from "../assets/img/JavaIconV2.png"
 import Javascript from "../assets/img/JSIcon.svg"
+import GithubDesktop from "../assets/img/GithubDesktop.png"
+import VSCode from "../assets/img/vscode.png"
+import Linux from "../assets/img/linux.png"
 import PHP from "../assets/img/PHP-logo.png"
 
 export const Skills = () => {
@@ -58,7 +61,18 @@ export const Skills = () => {
                                 <img src={Github} alt="Image" />
                                 <h5>Github</h5>
                             </div>
-                            
+                            <div className="item">
+                                <img src={GithubDesktop} alt="Image" />
+                                <h5>Github Desktop</h5>
+                            </div>
+                            <div className="item">
+                                <img src={VSCode} alt="Image" />
+                                <h5>VSCode</h5>
+                            </div>
+                            <div className="item">
+                                <img src={Linux} alt="Image" />
+                                <h5>Linux</h5>
+                            </div>
                         </Carousel>
                     </div>
                 </div>
