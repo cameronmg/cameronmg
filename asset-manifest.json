@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cameronmg/static/css/main.35f71bbc.css",
-    "main.js": "/cameronmg/static/js/main.a1ced5bf.js",
+    "main.js": "/cameronmg/static/js/main.0181c8ce.js",
     "static/js/787.fb771931.chunk.js": "/cameronmg/static/js/787.fb771931.chunk.js",
     "static/media/cam-img.png": "/cameronmg/static/media/cam-img.a0ae9fc0e17d27baa545.png",
     "static/media/color-sharp.png": "/cameronmg/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/cameronmg/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/GithubDesktop.png": "/cameronmg/static/media/GithubDesktop.9e04022ba7aa718399ac.png",
     "static/media/lunabotics-team.png": "/cameronmg/static/media/lunabotics-team.8b5e8c76fd3a13be8350.png",
     "static/media/Rice-MolSSI.png": "/cameronmg/static/media/Rice-MolSSI.0add59b3140aec3b932c.png",
-    "static/media/PHP-logo.png": "/cameronmg/static/media/PHP-logo.502c1a901665a0453b5c.png",
     "static/media/banner-bg.png": "/cameronmg/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/cameronmg/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/CentraNo2-Bold.ttf": "/cameronmg/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -18,10 +18,13 @@
     "static/media/project-img1.png": "/cameronmg/static/media/project-img1.d593db3f12901bc685c2.png",
     "static/media/footer-bg.png": "/cameronmg/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/project-img2.png": "/cameronmg/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/linux.png": "/cameronmg/static/media/linux.3db32b955e9b61f35998.png",
     "static/media/JavaIconV2.png": "/cameronmg/static/media/JavaIconV2.26fabfb6a8fae662f174.png",
+    "static/media/PHP-logo.png": "/cameronmg/static/media/PHP-logo.a827981e55119e2306da.png",
     "static/media/project-img3.png": "/cameronmg/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/contact-img.svg": "/cameronmg/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/GithubIcon.png": "/cameronmg/static/media/GithubIcon.6c26bafc9402f60134ad.png",
+    "static/media/vscode.png": "/cameronmg/static/media/vscode.d793c746fbc937f66e3d.png",
     "static/media/revicons.eot": "/cameronmg/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/cameronmg/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/PythonIconV3.webp": "/cameronmg/static/media/PythonIconV3.7a9da81b5ea6a4550127.webp",
@@ -31,18 +34,20 @@
     "static/media/meter3.svg": "/cameronmg/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "static/media/logo.svg": "/cameronmg/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/nav-icon3.svg": "/cameronmg/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/githubiconlarge.svg": "/cameronmg/static/media/githubiconlarge.6d08c6c3610f470cc1e4a7085c428f54.svg",
     "index.html": "/cameronmg/index.html",
+    "static/media/gmaillogo.svg": "/cameronmg/static/media/gmaillogo.5bd58170bb0338ccc46adcae22c1b504.svg",
     "static/media/nav-icon1.svg": "/cameronmg/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/arrow2.svg": "/cameronmg/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/cameronmg/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/JSIcon.svg": "/cameronmg/static/media/JSIcon.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/nav-icon2.svg": "/cameronmg/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.35f71bbc.css.map": "/cameronmg/static/css/main.35f71bbc.css.map",
-    "main.a1ced5bf.js.map": "/cameronmg/static/js/main.a1ced5bf.js.map",
+    "main.0181c8ce.js.map": "/cameronmg/static/js/main.0181c8ce.js.map",
     "787.fb771931.chunk.js.map": "/cameronmg/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35f71bbc.css",
-    "static/js/main.a1ced5bf.js"
+    "static/js/main.0181c8ce.js"
   ]
 }
