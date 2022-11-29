@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cameronmg/static/css/main.35f71bbc.css",
-    "main.js": "/cameronmg/static/js/main.60cad413.js",
+    "main.js": "/cameronmg/static/js/main.a1ced5bf.js",
     "static/js/787.fb771931.chunk.js": "/cameronmg/static/js/787.fb771931.chunk.js",
     "static/media/cam-img.png": "/cameronmg/static/media/cam-img.a0ae9fc0e17d27baa545.png",
     "static/media/color-sharp.png": "/cameronmg/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -38,11 +38,11 @@
     "static/media/JSIcon.svg": "/cameronmg/static/media/JSIcon.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/nav-icon2.svg": "/cameronmg/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.35f71bbc.css.map": "/cameronmg/static/css/main.35f71bbc.css.map",
-    "main.60cad413.js.map": "/cameronmg/static/js/main.60cad413.js.map",
+    "main.a1ced5bf.js.map": "/cameronmg/static/js/main.a1ced5bf.js.map",
     "787.fb771931.chunk.js.map": "/cameronmg/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35f71bbc.css",
-    "static/js/main.60cad413.js"
+    "static/js/main.a1ced5bf.js"
   ]
 }
