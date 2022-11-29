@@ -20,12 +20,12 @@ export const Projects = () => {
     },
     {
       title: "RICE MolSSI Workshop",
-      description: "Design & Development",
+      description: " This workshop focused on scientific programming skills and applications in computational chemistry",
       imgUrl: RICE,
     },
     {
       title: "Brainlox",
-      description: "Design & Development",
+      description: "Instruct kids from the ages of 7-14 on the fundamentals of Python ",
       imgUrl: Brainlox,
     }
     
@@ -40,7 +40,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div>
                 <h2>Experience</h2>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                {/*<p></p>*/}
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                           
                     <Tab.Pane eventKey="first">
